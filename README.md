@@ -57,48 +57,64 @@ de carbono equivalente.
 
 ### Equipe envolvida no projeto de pesquisa
 
-Membros da equipe: nome, instituição, tempo de dedicação, especialidade,
-papel e contribuição para os objetivos do projeto.  
-Falberni de Souza Costa, Embrapa Acre, 32 h/mês, Agronomia – ciência do
-solo, coordenador Fapac, coletas de solo no Acre e análise compartilhada
-dos resultados e elaboração de relatórios, resumos, artigos etc. Lattes:
+**Membros da equipe**: nome, instituição, tempo de dedicação,
+especialidade, papel e contribuição para os objetivos do projeto.  
+**Falberni de Souza Costa**, Embrapa Acre,
+![32](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;32 "32")
+h/mês, Agronomia – ciência do solo, coordenador Fapac, coletas de solo
+no Acre e análise compartilhada dos resultados e elaboração de
+relatórios, resumos, artigos etc. Lattes:
 <http://lattes.cnpq.br/6140325868421378>  
-Judson Ferreira Valentim, Embrapa Acre, 16 h/mês, Agronomia, ciência
-animal, colaborador Fapac, comunicação com atores individuais e
-institucionais locais, garantido a participação da sociedade na
-validação dos resultados e sua divulgação. Lattes:
+**Judson Ferreira Valentim**, Embrapa Acre,
+![16](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;16 "16")
+h/mês, Agronomia, ciência animal, colaborador Fapac, comunicação com
+atores individuais e institucionais locais, garantido a participação da
+sociedade na validação dos resultados e sua divulgação. Lattes:
 <http://lattes.cnpq.br/3483707341677433>  
-Márcio Muniz Albano Bayma, Embrapa Acre, 16 h/mês, Economia rural,
-colaborador Fapac, análises econômicas e interpretação dos sistemas
-pecuários avaliados. Interação com os setores de comunicação e
-transferência de tecnologia da Embrapa Acre para devolutivas para a
-população local dos resultados. Lattes:
+**Márcio Muniz Albano Bayma**, Embrapa Acre,
+![16](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;16 "16")
+h/mês, Economia rural, colaborador Fapac, análises econômicas e
+interpretação dos sistemas pecuários avaliados. Interação com os setores
+de comunicação e transferência de tecnologia da Embrapa Acre para
+devolutivas para a população local dos resultados. Lattes:
 <http://lattes.cnpq.br/7159838636742407>  
-Ieda de Carvalho Mendes, Embrapa Cerrados, 16 h/mês, Agronomia,
-biotecnologia do solo, colaboradora Embrapa Cerrados, análises
-enzimáticas e indicação do tipo de pecuária com sinais de
+**Ieda de Carvalho Mendes**, Embrapa Cerrados,
+![16](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;16 "16")
+h/mês, Agronomia, biotecnologia do solo, colaboradora Embrapa Cerrados,
+análises enzimáticas e indicação do tipo de pecuária com sinais de
 sustentabilidade. Lattes: <http://lattes.cnpq.br/1503203554671446>  
-Hugo Mota Ferreira Leite, Ufac campus de Cruzeiro do Sul (Ufac - CZS),
-16 h/mês, Agronomia, ciência do solo, colaborador, medição e análises
-das medições de CO<sub>2</sub>. Lattes:
+**Hugo Mota Ferreira Leite**, Ufac campus de Cruzeiro do Sul (Ufac -
+CZS),
+![16](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;16 "16")
+h/mês, Agronomia, ciência do solo, colaborador, medição e análises das
+medições de CO<sub>2</sub>. Lattes:
 <http://lattes.cnpq.br/6252255325557132>  
-Deborah Pinheiro Dick, UFRGS, 32 h/mês, Físico-química, ciência do solo,
-coordenadora Fapergs, análises da qualidade e quantidade matéria
-orgânica do solo. Lattes: <http://lattes.cnpq.br/1726585605611731>  
-Carlos Gustavo Tornquist, UFRGS, 16 h/mês, Agronomia, ciência do solo,
-colaborador Fapergs, modelagem da matéria orgânica e de gases de efeito
-estufa. Lattes: <http://lattes.cnpq.br/5932159585668640>  
-Jackson Adriano Albuquerque, Udesc – CAV, 24 h/mês, Agronomia, ciência
-do solo, coordenador Fapesc, análises físicas do solo. Lattes:
-<http://lattes.cnpq.br/2742016472989791>  
-Alan Rodrigo Panosso, FCAV – Unesp, 20 h/mês, Agronomia, ciência do
-solo, coordenador Fapesp, medição, análises e tratamento geoestatístico
-das emissões de CO<sub>2</sub>. Lattes:
+**Deborah Pinheiro Dick**, UFRGS,
+![32](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;32 "32")
+h/mês, Físico-química, ciência do solo, coordenadora Fapergs, análises
+da qualidade e quantidade matéria orgânica do solo. Lattes:
+<http://lattes.cnpq.br/1726585605611731>  
+**Carlos Gustavo Tornquist**, UFRGS,
+![16](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;16 "16")
+h/mês, Agronomia, ciência do solo, colaborador Fapergs, modelagem da
+matéria orgânica e de gases de efeito estufa. Lattes:
+<http://lattes.cnpq.br/5932159585668640>  
+**Jackson Adriano Albuquerque**, Udesc – CAV,
+![24](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;24 "24")
+h/mês, Agronomia, ciência do solo, coordenador Fapesc, análises físicas
+do solo. Lattes: <http://lattes.cnpq.br/2742016472989791>  
+**Alan Rodrigo Panosso**, FCAV – Unesp,
+![20](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;20 "20")
+h/mês, Agronomia, ciência do solo, coordenador Fapesp, medição, análises
+e tratamento geoestatístico das emissões de CO<sub>2</sub>. Lattes:
 <http://lattes.cnpq.br/2134397589741043>  
-Newton La Scala Júnior, FCAV – Unesp, 10 h/mês, Física, colaborador
-Fapesp, medição, análises e modelagem matemática das emissões de
-CO<sub>2</sub>. Lattes: <http://lattes.cnpq.br/1449605928537533>  
-Carlos Tadeu dos Santos Dias, Esalq - USP, 10 h/mês, Agronomia,
-estatística e experimentação agronômica, colaborador Fapesp, modelagem
-estatística dos resultados. Lattes:
+**Newton La Scala Júnior**, FCAV – Unesp,
+![10](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;10 "10")
+h/mês, Física, colaborador Fapesp, medição, análises e modelagem
+matemática das emissões de CO<sub>2</sub>. Lattes:
+<http://lattes.cnpq.br/1449605928537533>  
+**Carlos Tadeu dos Santos Dias**, Esalq - USP,
+![10](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;10 "10")
+h/mês, Agronomia, estatística e experimentação agronômica, colaborador
+Fapesp, modelagem estatística dos resultados. Lattes:
 <http://lattes.cnpq.br/5072133224529810>
