@@ -80,7 +80,8 @@ enzimáticas e indicação do tipo de pecuária com sinais de
 sustentabilidade. Lattes: <http://lattes.cnpq.br/1503203554671446>  
 Hugo Mota Ferreira Leite, Ufac campus de Cruzeiro do Sul (Ufac - CZS),
 16 h/mês, Agronomia, ciência do solo, colaborador, medição e análises
-das medições de CO2. Lattes: <http://lattes.cnpq.br/6252255325557132>  
+das medições de CO<sub>2</sub>. Lattes:
+<http://lattes.cnpq.br/6252255325557132>  
 Deborah Pinheiro Dick, UFRGS, 32 h/mês, Físico-química, ciência do solo,
 coordenadora Fapergs, análises da qualidade e quantidade matéria
 orgânica do solo. Lattes: <http://lattes.cnpq.br/1726585605611731>  
@@ -92,10 +93,11 @@ do solo, coordenador Fapesc, análises físicas do solo. Lattes:
 <http://lattes.cnpq.br/2742016472989791>  
 Alan Rodrigo Panosso, FCAV – Unesp, 20 h/mês, Agronomia, ciência do
 solo, coordenador Fapesp, medição, análises e tratamento geoestatístico
-das emissões de CO2. Lattes: <http://lattes.cnpq.br/2134397589741043>  
+das emissões de CO<sub>2</sub>. Lattes:
+<http://lattes.cnpq.br/2134397589741043>  
 Newton La Scala Júnior, FCAV – Unesp, 10 h/mês, Física, colaborador
-Fapesp, medição, análises e modelagem matemática das emissões de CO2.
-Lattes: <http://lattes.cnpq.br/1449605928537533>  
+Fapesp, medição, análises e modelagem matemática das emissões de
+CO<sub>2</sub>. Lattes: <http://lattes.cnpq.br/1449605928537533>  
 Carlos Tadeu dos Santos Dias, Esalq - USP, 10 h/mês, Agronomia,
 estatística e experimentação agronômica, colaborador Fapesp, modelagem
 estatística dos resultados. Lattes:
